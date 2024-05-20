@@ -1,9 +1,6 @@
-# Cork City FC
+# Hello
 
-Cork City Football Club ([Irish](https://en.wikipedia.org/wiki/Irish\_language): _Cumann Peile Chathair Chorcaí_) is an [Irish association football club](https://en.wikipedia.org/wiki/List\_of\_association\_football\_clubs\_in\_the\_Republic\_of\_Ireland) based in [Cork](https://en.wikipedia.org/wiki/Cork\_\(city\)). The club was founded and elected to the [League of Ireland](https://en.wikipedia.org/wiki/League\_of\_Ireland) in [1984](https://en.wikipedia.org/wiki/1984%E2%80%9385\_League\_of\_Ireland).
+Please go to [this link](https://gitbook.io/).
 
-It was one of the first clubs in Ireland (and the first in Cork) to field a team of professional footballers. With the progression of professionalism at the club, continued development of the [Turners Cross stadium](https://en.wikipedia.org/wiki/Turners\_Cross\_\(stadium\)) and the transition to summer football, the club became one of the biggest and best supported clubs in the country.[\[4\]](https://en.wikipedia.org/wiki/Cork\_City\_F.C.#cite\_note-4)[\[5\]](https://en.wikipedia.org/wiki/Cork\_City\_F.C.#cite\_note-5) In a survey published in 2020, the club was the highest supported League of Ireland (LOI) club.[\[6\]](https://en.wikipedia.org/wiki/Cork\_City\_F.C.#cite\_note-ITsurvey-6)
 
-Cork City won its third [LOI Premier Division](https://en.wikipedia.org/wiki/League\_of\_Ireland\_Premier\_Division) title, and first [FAI Cup](https://en.wikipedia.org/wiki/FAI\_Cup) double, during the [2017 season](https://en.wikipedia.org/wiki/2017\_League\_of\_Ireland\_Premier\_Division). While the club were [2022 LOI First Division](https://en.wikipedia.org/wiki/2022\_League\_of\_Ireland\_First\_Division) champions and were promoted to the top tier for the [2023 League of Ireland Premier Division](https://en.wikipedia.org/wiki/2023\_League\_of\_Ireland\_Premier\_Division) season, after a play-off defeat they dropped back to the LOI First Division for the [2024 season](https://en.wikipedia.org/wiki/2024\_League\_of\_Ireland\_First\_Division).
 
-The club's traditional colours are green and white with red trim, and the crest is a variant of the Cork coat of arms. City's home games are played at [Turners Cross](https://en.wikipedia.org/wiki/Turners\_Cross\_\(stadium\)).
