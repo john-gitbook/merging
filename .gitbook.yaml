@@ -1,5 +1,9 @@
 root: ./
 
+​structure:
+  readme: README.md
+  summary: SUMMARY.md​
+
 
 redirects:
   page-2: README.md
