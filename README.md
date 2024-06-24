@@ -1,3 +1,3 @@
 # Page 1
 
-updates
+<figure><img src=".gitbook/assets/dancing_cockroach.gif" alt=""><figcaption></figcaption></figure>
